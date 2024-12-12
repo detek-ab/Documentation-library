@@ -12,4 +12,6 @@
 ## Settings for ZHA
 - Baud:38400
 - Flow:OFF
-  
+
+## Settings for Zigbee2Mqtt
+- port: /dev/serial/by-id/usb-FTDI_FT230X_Basic_UART_DM01E3EF-if00-port0
