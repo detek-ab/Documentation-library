@@ -1,0 +1,10 @@
+<Configuration>
+<VideoInput>value</VideoInput>
+  <MappedFolders>
+    <MappedFolder>
+      <!-- This is where you place the location of your mapp -->
+      <HostFolder>C:\Users\detek\Documents\SandboxFolder</HostFolder>
+      <ReadOnly>false</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+</Configuration>
