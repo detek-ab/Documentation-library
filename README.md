@@ -1,2 +1,2 @@
-# Blog-Software-Hardware
+# Blog-Documentation
 Information and documentation for Software and Hardware
