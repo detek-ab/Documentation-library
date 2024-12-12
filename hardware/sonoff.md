@@ -21,7 +21,8 @@
 - https://github.com/xyzroe/ZigStarGW-MT
 - https://github.com/contiki-os/contiki/tree/master/platform/cc2538dk
 - https://github.com/JelmerT/cc2538-bsl
-- 
+- https://automatiserar.se/hur-bra-ar-zigbee2mqtt-med-home-assistant/#InstalleraZ2M
+  
 ```text
 For ITead SONOFF Zigbee 3.0 USB Dongle Plus: For the CC2652P based "SONOFF Zigbee 3.0 USB Dongle Plus" (model "ZBDongle-P") adapter from ITead you need to invoke toggle to activate bootloader with --bootloader-sonoff-usb if you do not want to open its enclosure to manually start the bootloader with the boot button on the PCB.
 For all the CC13xx and CC26xx families, the ROM bootloader is configured through the BL_CONFIG 'register' in CCFG. BOOTLOADER_ENABLE should be set to 0xC5 to enable the bootloader in the first place.
