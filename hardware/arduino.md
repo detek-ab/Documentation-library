@@ -10,5 +10,11 @@
 - 
 
 ## Python for Arduino
+- Firmware for python https://docs.micropython.org/en/latest/esp8266/tutorial/intro.html
 - https://nanpy.github.io/
+- https://mudpi.app/docs/extension-nanpy
+
+
+## Code for Arduino
+- https://antoniomignano.medium.com/arduino-nano-esp8266-web-server-5f74e9753989
   
