@@ -7,6 +7,7 @@
 - https://github.com/psvanstrom/esphome-p1reader/issues/45
 - https://esphome.io/components/sensor/#
 - https://esphome.io/components/logger.html#configuration-variables
+- https://randomnerdtutorials.com/install-esp32-esp8266-usb-drivers-cp210x-windows/
 
 ## RF 433Mhz
 - https://jgromes.github.io/RadioLib/class_c_c1101.html
