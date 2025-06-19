@@ -6,3 +6,6 @@
 - https://www.amsleser.no/home/10-39-pow-p1-reader-for-power-meter-with-p1-port.html#/23-enclosure-with/27-cable-rj12_30_cm
 - https://www.amsleser.no/
   
+
+## Energy meter
+- https://www.byggmax.se/energimatare-powertag-resi9-flex-zigbee-3-pol-n-63a-schneider-electric-p68736405
